@@ -19,6 +19,6 @@
   ],
   "homepage": "https://github.com/micha-lmxt/svelte-textfit",
   "peerDependencies": {
-    "svelte": "^3.32.3"
+    "svelte": "^3.32.3 || ^4.0.0"
   }
 }
